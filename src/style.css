@@ -1,6 +1,6 @@
 .card-largura {
-    width: 18rem;
-    padding: 0;
+    /* width está travando a class col */
+    max-width: 18rem;
 }
 
 .imagem-carrossel1 {
