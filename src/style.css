@@ -36,3 +36,12 @@
     object-position: 0% 75%;
     height: 200px;
 }
+
+#receitas > div {
+    max-width: 1228px;
+}
+
+#receitas {
+    display: flex;
+    justify-content: center;
+}
